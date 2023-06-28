@@ -43,3 +43,5 @@ Ctrl+Enter:셀 실행
 Alt+Enter:셀 실행하고 아래 셀 삽입
 
 넘파이 설치: pip install numpy_financial
+
+tensorflow 설치: pip3 install tensorflow
